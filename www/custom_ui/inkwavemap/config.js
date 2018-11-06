@@ -7,7 +7,7 @@ HomeAssistantWebAPIUrl="./../../.."
 // 高德API key
 // 请至高德开放平台http://lbs.amap.com/获取
 // (必填)
-GaodeMapKey=""
+GaodeMapKey="4e0108b89bce7c7833b74e13dd6b42e3"
 
 
 // 永久Token(HomeAssistant 0.77.2版本以上时可用)
